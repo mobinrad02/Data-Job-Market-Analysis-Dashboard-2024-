@@ -54,7 +54,6 @@ Visualizations: Custom Sankey diagrams, Funnel charts, Gauge visuals, and Geogra
 Interactivity: Integrated Drill-Through pages allowing users to click a job title (e.g., Senior Data Scientist) and see a dedicated deep-dive report.
 
 ## 💡 Key Findings
-[!IMPORTANT]
 
 Seniority Matters: Senior-level roles earn nearly 60% more than entry-level analyst positions.
 
