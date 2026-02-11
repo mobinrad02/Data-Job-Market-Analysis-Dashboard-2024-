@@ -1,7 +1,26 @@
 📊 Data Job Market Analysis Dashboard (2024)
 An interactive Power BI dashboard designed to explore the global landscape of data-related careers. This project transforms raw job posting data into actionable insights regarding compensation, requirements, and hiring trends.
-![Column & Bar](1.png) (2.png) 
-(3.png) (4.png) (5.png) (6.png) (7.png) (8.png) (9.png) (10.png)
+
+![Column & Bar](1.png) 
+
+![Line & Area](2.png) 
+
+![Common Charts](3.png) 
+
+![Map Charts](4.png) 
+
+![Uncommon Charts](5.png) 
+
+![Tables](6.png) 
+
+![Cards](7.png) 
+
+![Slicers](8.png) 
+
+![Data Jobs Dashboard](9.png) 
+
+![Job Title Drill Through](10.png)
+
 🌟 Executive Summary
 The dashboard analyzes over 479,000 job postings to provide a 360-degree view of the data industry. It highlights the shift toward remote work, the premium on senior roles, and the evolving educational requirements in the tech sector.
 
